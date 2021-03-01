@@ -14,7 +14,7 @@
 import cv2
 import scipy.misc
 import matplotlib.pyplot as plt
-get_ipython().run_line_magic('matplotlib', 'inline')
+# get_ipython().run_line_magic('matplotlib', 'inline')
 
 #  Feel free to try out your own images here by changing img_path
 # to a file path to another image on your computer!

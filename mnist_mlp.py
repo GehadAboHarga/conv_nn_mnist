@@ -25,7 +25,7 @@ print("The MNIST database has a test set of %d examples." % len(X_test))
 
 
 import matplotlib.pyplot as plt
-get_ipython().run_line_magic('matplotlib', 'inline')
+# get_ipython().run_line_magic('matplotlib', 'inline')
 import matplotlib.cm as cm
 import numpy as np
 
