@@ -1,5 +1,6 @@
 # conv_nn_mnist
 using CNN on mnist dataset
+
 In this code, we train an MLP to classify images from the MNIST database then we visualize four activation maps in a CNN layer.
 
 
